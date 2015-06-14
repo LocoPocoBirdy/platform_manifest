@@ -331,7 +331,7 @@
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" groups="pdk" remote="github" revision="cm-12.1" />
   <project path="hardware/ril-caf" name="CyanogenMod/android_hardware_ril" groups="pdk" remote="github" revision="cm-12.1-caf" />
   <project path="hardware/samsung" name="AOSP-JF/android_hardware_samsung" remote="github" revision="aosp-5.1" />
-  <project path="libcore" name="platform/libcore" groups="pdk" />
+  <project path="libcore" name="AOSP-JF/platform_libcore" groups="pdk"  remote="github" revision="aosp-5.1" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
