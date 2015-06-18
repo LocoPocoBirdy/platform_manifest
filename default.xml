@@ -327,7 +327,7 @@
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" />
   <project path="hardware/qcom/power" name="platform/hardware/qcom/power" groups="qcom" />
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" />
-  <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" groups="qcom_wlan" />
+  <project path="hardware/qcom/wlan" name="AOSP-JF/platform_hardware_qcom_wlan" groups="qcom_wlan" remote="github" revision="aosp-5.1" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" groups="pdk" remote="github" revision="cm-12.1" />
   <project path="hardware/ril-caf" name="CyanogenMod/android_hardware_ril" groups="pdk" remote="github" revision="cm-12.1-caf" />
   <project path="hardware/samsung" name="AOSP-JF/android_hardware_samsung" remote="github" revision="aosp-5.1" />
