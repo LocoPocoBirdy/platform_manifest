@@ -336,7 +336,7 @@
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="AOSP-JF/platform_packages_apps_Bluetooth" groups="pdk-cw-fs" remote="github" revision="aosp-5.1" />
-  <project path="packages/apps/Browser" name="platform/packages/apps/Browser" />
+  <project path="packages/apps/Browser" name="AOSP-JF/platform_packages_apps_Browser" remote="github" revision="aosp-5.1" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
