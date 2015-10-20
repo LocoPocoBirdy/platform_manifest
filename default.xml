@@ -381,7 +381,6 @@
   <project path="packages/apps/STweaks" name="AOSP-JF/STweaks" remote="github" revision="aosp-5.1" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/Terminal" name="platform/packages/apps/Terminal" />
-  <project path="packages/apps/Toolbox" name="JDCTeam/Toolbox" remote="github" revision="aosp" />
   <project path="packages/apps/TvSettings" name="platform/packages/apps/TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
